@@ -1,3 +1,0 @@
-# SHA-256 followed by asset path
-ea781a7a0a1808e0a4c8bf344b3c478876e732822d1c1ded26b4a8c0259ad159 port_test.txt
-86c93011eef12a8bd6ef4ce718993ee0a8253b60b6df4b61102f19d556cd96ab port_test_extra.txt

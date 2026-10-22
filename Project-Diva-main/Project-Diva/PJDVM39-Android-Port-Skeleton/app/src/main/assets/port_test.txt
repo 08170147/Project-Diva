@@ -1,3 +1,0 @@
-PJDVM39_RESOURCE_TEST
-version=1
-resource_loading=ready
