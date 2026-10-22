@@ -1,0 +1,4 @@
+
+PJDVM39_RESOURCE_TEST_EXTRA
+version=2
+resource_loading=ready
