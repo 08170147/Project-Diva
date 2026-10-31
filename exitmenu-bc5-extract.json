@@ -1,0 +1,22 @@
+{
+  "ipa": "PJDVM39-0.1.5b19-iOS-unsigned.ipa",
+  "archive_entry": "Payload/PJDVM39.app/ExitMenu/en/rom_switch/rom/2d/spr_nswgam_menu.farc",
+  "farc_bytes": 4530184,
+  "bin_bytes": 31790320,
+  "bin_sha256": "96c8a057c7e6fb12006e5f7a50a87d6e20cafe1b9f75fc9b167afda99a93157d",
+  "type2_record_count": 14,
+  "selected_record_index": 2,
+  "txp_offset": 332652,
+  "width": 2048,
+  "height": 2048,
+  "format_id_candidate": 11,
+  "payload_bytes": 4194304,
+  "payload_sha256": "f666638311b1ccf0372120212e0fb7ed72157e8d6cbbfaaf25f3a2726ddd733b",
+  "output": "C:\\Users\\User\\PJDVM39-Android-ARM64-main\\app\\src\\main\\assets\\pjdvm39\\exitmenu_2048x2048.bc5",
+  "status": "structurally_validated_candidate_BC5_payload",
+  "limitations": [
+    "format ID 11 to BC5 remains a candidate mapping",
+    "channel swizzle and runtime UV/layout are not validated",
+    "no mip chain is extracted"
+  ]
+}

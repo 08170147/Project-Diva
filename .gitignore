@@ -1,0 +1,26 @@
+﻿.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.ipa
+.DS_Store
+Thumbs.db
+
+# Nested duplicate project
+/PJDVM39-Android-ARM64-main/
+
+# Native build cache
+.cxx/
+**/.cxx/
+
+# Backup files
+*.bak-*
+
+# Nested duplicate project
+/PJDVM39-Android-ARM64-main/
+
+# Local backup files
+*.backup
+*.backup-*
